@@ -72,16 +72,13 @@
 
 ## Projects
 - [3D Support for Pixijs library](https://patwari.github.io/threejs-within-pixijs/) - Oct 2019
-
 > Emulate a 3D environment on PIXI-js which primarily is a (2D) webGL-renderer.
 
 - [Dots and Boxes Game on Libgdx](https://github.com/patwari/DotAndBoxes) - Mar 2020
-
 > A simple game built on LibGdx. It was a personal project while learning the framework. [APK link] (A simple game built on LibGdx. It was a personal project while learning the framework.)
 
 - Text Search Engine - Aug 2015
 - Under Prof. Gautam K. Das, Dept of Mathematics, IITG
-
 > Implementation of an optimised and efficient text search engine that searches through multiple text files using Trie
 > 
 > Added autocomplete feature while typing.
