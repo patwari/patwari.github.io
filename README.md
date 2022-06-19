@@ -8,11 +8,11 @@
 
 ## Contacts Information
 
-- email - rahulpatwari233@gmail.com
-- phone - (+91) 9085-294-720
-- address - [Harnatand, Bihar](https://www.google.com/maps/place/27%C2%B017'51.5%22N+84%C2%B001'07.9%22E/@27.3000491,84.0202756,16z/data=!4m14!1m7!3m6!1s0x39946c02bc025a2b:0x3c029701b5386558!2sHarna+Tanr,+Bihar+845105!3b1!8m2!3d27.302964!4d84.0180642!3m5!1s0x39946e9dcf1aeeef:0x223f3603de7b7fb!7e2!8m2!3d27.2976376!4d84.0188563)
-- leetcode - https://leetcode.com/r_patwari
-- interviewBit - https://www.interviewbit.com/profile/foxx
+- Email - rahulpatwari233@gmail.com
+- Phone - (+91) 9085-294-720
+- Address - [Harnatand, Bihar](https://www.google.com/maps/place/27%C2%B017'51.5%22N+84%C2%B001'07.9%22E/@27.3000491,84.0202756,16z/data=!4m14!1m7!3m6!1s0x39946c02bc025a2b:0x3c029701b5386558!2sHarna+Tanr,+Bihar+845105!3b1!8m2!3d27.302964!4d84.0180642!3m5!1s0x39946e9dcf1aeeef:0x223f3603de7b7fb!7e2!8m2!3d27.2976376!4d84.0188563)
+- Leetcode - https://leetcode.com/r_patwari
+- InterviewBit - https://www.interviewbit.com/profile/foxx
 
 
 ## Technical Skills
@@ -25,15 +25,12 @@
 
 
 ## Education
-
-2013 - 2017
-:   **B-Tech, Maths & Computing**
+**B-Tech, Maths & Computing**  :: (2013 - 2017)
 
 - **Indian Institute of Technology (IIT), Guwahati**
 - **CPI = 5.56**
 
-2006 - 2013
-:   **Senior Secondary*
+**Senior Secondary**  :: (2006 - 2013)
 
 - Sainik School Gopalganj, Bihar
 - 10th Marks = 10 CGPA
@@ -92,20 +89,24 @@
 
 
 ## Additional Resources:
-- DotDash Gameplay
+- [DotDash Gameplay](https://user-images.githubusercontent.com/13629939/174492087-ab444bd1-80da-4038-ae93-b73a07c14ad5.mp4
+)
 
 https://user-images.githubusercontent.com/13629939/174492087-ab444bd1-80da-4038-ae93-b73a07c14ad5.mp4
 
-- ABC Rummy Gameplay
+- [ABC Rummy Gameplay](https://user-images.githubusercontent.com/13629939/174494211-a02a4b1e-aeb1-484f-8fb9-6f4aaefde3f7.mp4
+)
 
 https://user-images.githubusercontent.com/13629939/174494211-a02a4b1e-aeb1-484f-8fb9-6f4aaefde3f7.mp4
 
-- Fruitkaat Gameplay
+- [Fruitkaat Gameplay](https://user-images.githubusercontent.com/13629939/174496902-73dbf280-b4a3-40e6-a3da-96f7649d11d7.mp4
+)
 
 https://user-images.githubusercontent.com/13629939/174496902-73dbf280-b4a3-40e6-a3da-96f7649d11d7.mp4
 
 
-- 3D + Pixijs Demo
+- [3D + Pixijs Demo](https://user-images.githubusercontent.com/13629939/174497306-c70150f9-699e-4c37-9f33-f6c7dd04f9e6.mp4
+)
 
 https://user-images.githubusercontent.com/13629939/174497306-c70150f9-699e-4c37-9f33-f6c7dd04f9e6.mp4
 
