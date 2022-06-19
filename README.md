@@ -1,7 +1,13 @@
-<img src="https://user-images.githubusercontent.com/13629939/174485364-4922f3a3-1f6d-43c8-a2c9-df814eb99ddd.JPG" alt="drawing" width="200"/>
+<!-- <img src="https://user-images.githubusercontent.com/13629939/174485364-4922f3a3-1f6d-43c8-a2c9-df814eb99ddd.JPG" alt="drawing" width="200"/> -->
 
 ## Rahul Patwari
-Address
+
+Contacts Information
+---------
+
+- email - rahulpatwari233@gmail.com
+- phone - (+91) 9085-294-720
+
 
 <!-- -----
 >  jnksjndfg
@@ -84,4 +90,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
  -->
