@@ -1,7 +1,8 @@
-<img src="https://user-images.githubusercontent.com/13629939/174485364-4922f3a3-1f6d-43c8-a2c9-df814eb99ddd.JPG" alt="drawing" width="200"/>
+<!-- <img src="https://user-images.githubusercontent.com/13629939/174485364-4922f3a3-1f6d-43c8-a2c9-df814eb99ddd.JPG" alt="drawing" width="200"/> -->
+<img src="https://user-images.githubusercontent.com/13629939/174499471-be11d934-8569-4c64-88ab-85a3f85ff1a7.jpg" alt="drawing" width="200"/>
 
 # Rahul Patwari
-### Game Developer at [GetMega](https://www.getmega.com/), Bangalore
+### Game Developer at [GetMega](https://www.getmega.com/), Bengaluru
 
 > Developed various casual & slot games for past 4 years, continuously improving the designs. It also helped me realise the importance of post-release health (performance) of the game. Love to code, read books, and play chess.
 
@@ -40,7 +41,7 @@
 ## Experience
 
 ### June 2020 - current
-**[GetMega](https://www.getmega.com/)**, Bangalore :: **Game Engineer**
+**[GetMega](https://www.getmega.com/)**, Bengaluru :: **Game Engineer**
 
 - Game Development
 > Developed both *FE & BE* of 3 casual multiplayer real-money games (**DotDash, Fruitkaat, ABC-Rummy**) on *LibGdx framework*, which requires constant sync with BE, while maintaining 60 fps using optimal codes. 
