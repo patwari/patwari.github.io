@@ -77,7 +77,7 @@
 > Emulate a 3D environment on PIXI-js which primarily is a (2D) webGL-renderer.
 
 - [Dots and Boxes Game on Libgdx](https://github.com/patwari/DotAndBoxes) - Mar 2020
-> A simple game built on LibGdx. It was a personal project while learning the framework. [APK link] (A simple game built on LibGdx. It was a personal project while learning the framework.)
+> A simple game built on LibGdx. It was a personal project while learning the framework. [APK link](https://github.com/patwari/DotAndBoxes/raw/master/app/release/monoloco.apk)
 
 - Text Search Engine - Aug 2015
 - Under Prof. Gautam K. Das, Dept of Mathematics, IITG
