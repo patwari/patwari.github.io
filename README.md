@@ -53,10 +53,12 @@
 - Common Engine Development
 > Co-created a common layer, on which all games run, to enable adding common elements like HUD, game hints, score management, performance monitoring, debugging and more.
 
-- Game Performance Monitoring
+- Game Performance Improvement
 > Added analytics for performance which would log some predefined issues with games, on aim to provide a smooth and bug-free user experience.
-> Issues like snapping, game freezes, crashes, disconnections, low fps, fps dips.
-> Within first 2 months, it saw an improvement of over 35%.
+
+> Envision various solutions - like profiling, code & render optimisations, protofying data packets, zipped packet, etc to resolve issues like snapping, game freezes, crashes, disconnections, low fps, fps dips.
+
+> Within first 2 months, numbers of players having issues dropped by 35%
 
 ### June 2018 - June 2020
 **[Ingenuity Gaming](https://www.ingenuitygaming.com/)**, Noida :: **Game Developer / SDE**
