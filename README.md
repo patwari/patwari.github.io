@@ -2,10 +2,9 @@
 <img src="https://user-images.githubusercontent.com/13629939/174499471-be11d934-8569-4c64-88ab-85a3f85ff1a7.jpg" alt="drawing" width="200"/>
 
 # Rahul Patwari
-### Game Developer at [GetMega](https://www.getmega.com/), Bengaluru
+### Senior Game Developer at [Superhuge](https://superhugestudios.com/), Bengaluru
 
-> Developed various casual & slot games for past 4 years, continuously improving the designs. It also helped me realise the importance of post-release health (performance) of the game. Love to code, read books, and play chess.
-
+> Developing BE that support various variants of chess game FE. Love to watch movies, read books, and sleep-a-lot.
 
 ## Contacts Information
 
@@ -40,7 +39,11 @@
 
 ## Experience
 
-### June 2020 - current
+### Aug 2022 - current
+**[Superhuge](https://superhugestudios.com/)**, Bengaluru :: **Senior Game Developer**
+- Overlooking development process, and developing BE (using Nakama).
+
+### June 2020 - June 2022
 **[GetMega](https://www.getmega.com/)**, Bengaluru :: **Game Engineer**
 
 - Game Development
