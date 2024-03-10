@@ -4,7 +4,8 @@
 # Rahul Patwari
 ### Senior Game Developer at [Superhuge](https://superhugestudios.com/), Bengaluru
 
-> Developing BE that support various variants of chess game FE. Love to watch movies, read books, and sleep-a-lot.
+> Experienced and results-driven game developer with a proven track record of designing and developing engaging multi-player casual, hypercasual, and slot games over the past 5 years. Dedicated to consistently enhancing game design while prioritizing post-release health and performance optimization.
+> Love to watch movies, read books, and sleep-a-lot.
 
 ## Contacts Information
 
@@ -17,10 +18,10 @@
 
 ## Technical Skills
 
-- Programming Languages: **Java, Golang, Javascript**
-- Programming Languages: (minor expertise): **c++, Kotlin, Typescript**
+- Programming Languages: **C#, Java, Javascript**
+- Programming Languages: (minor expertise): **C++, Golang, Python, Kotlin**
 - Database Management: **MySQL, BigQuery**
-- Miscellaneous: **Git, LibGdx, PIXI-js, grunt, SVN**
+- Miscellaneous: **Unity, Nakama, MySQL, Docker, AWS, Git, LibGdx, PIXI-js**
 - Key Courses: **Data Structures and Algorithms, OS, OOPS**
 
 
@@ -41,7 +42,11 @@
 
 ### Aug 2022 - current
 **[Superhuge](https://superhugestudios.com/)**, Bengaluru :: **Senior Game Developer**
-- Overlooking development process, and developing BE (using Nakama).
+- Heading an engineering team of 5 engineers and 2 QA to develop many titles.
+- Architectured the flagship game, Solitaire Candyworld, a casualized version of Solitaire Tri-Peaks, which supports 300 levels. We've designed the architecture to support multiple types of gameplay. Also, esuring that additional meta features are plug-and-play.
+- Developed Chess Blitz, a multiplayer PvP Game using Nakama with our own account and economy management.
+- Significantly reduced the development time by writing common codebase to enable A/B testing, download files, analytics, and config driven gameplay.
+- Enhanced post-development activities by implementing automation for the generation of chess puzzles, validation processes, and unit tests, thereby facilitating seamless offline gameplay.
 
 ### June 2020 - June 2022
 **[GetMega](https://www.getmega.com/)**, Bengaluru :: **Game Engineer**
