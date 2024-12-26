@@ -4,24 +4,26 @@
 # Rahul Patwari
 ### Senior Game Developer at [Superhuge](https://superhugestudios.com/), Bengaluru
 
-> Developing BE that support various variants of chess game FE. Love to watch movies, read books, and sleep-a-lot.
+> Experienced and results-driven game developer with a proven track record of designing and developing engaging multi-player casual, hypercasual, and slot games over the past 6.5 years. Dedicated to consistently enhancing game design while prioritizing post-release health and performance optimization.
+
+> Love to watch movies, read books, and sleep-a-lot.
 
 ## Contacts Information
 
 - Email - rahulpatwari233@gmail.com
 - Phone - (+91) 9085-294-720
-- Address - [Harnatand, Bihar](https://www.google.com/maps/place/27%C2%B017'51.5%22N+84%C2%B001'07.9%22E/@27.3000491,84.0202756,16z/data=!4m14!1m7!3m6!1s0x39946c02bc025a2b:0x3c029701b5386558!2sHarna+Tanr,+Bihar+845105!3b1!8m2!3d27.302964!4d84.0180642!3m5!1s0x39946e9dcf1aeeef:0x223f3603de7b7fb!7e2!8m2!3d27.2976376!4d84.0188563)
-- Leetcode - https://leetcode.com/r_patwari
-- InterviewBit - https://www.interviewbit.com/profile/foxx
+- Address - [Bangalore, Karnataka](https://maps.app.goo.gl/XF6nFxtmXz8E49Zh9)
+- Leetcode - [https://leetcode.com/r_patwari](https://leetcode.com/r_patwari)
+- InterviewBit - [https://www.interviewbit.com/profile/foxx](https://www.interviewbit.com/profile/foxx)
 
 
 ## Technical Skills
 
-- Programming Languages: **Java, Golang, Javascript**
-- Programming Languages: (minor expertise): **c++, Kotlin, Typescript**
+- Programming Languages: **C#, Unity, Java, Javascript**
+- Programming Languages: (minor expertise): **C++, Golang, Python, Kotlin**
 - Database Management: **MySQL, BigQuery**
-- Miscellaneous: **Git, LibGdx, PIXI-js, grunt, SVN**
-- Key Courses: **Data Structures and Algorithms, OS, OOPS**
+- Miscellaneous: **Unity, Nakama, MySQL, Docker, AWS, Git, LibGdx, PIXI-js**
+- Key Courses: **Data Structures and Algorithms (DSA), Operating Systems (OS), OOPS**
 
 
 ## Education
@@ -39,11 +41,15 @@
 
 ## Experience
 
-### Aug 2022 - current
+### Aug 2022 - current (2+ yrs)
 **[Superhuge](https://superhugestudios.com/)**, Bengaluru :: **Senior Game Developer**
-- Overlooking development process, and developing BE (using Nakama).
+- Leading an engineering team of 5 engineers, 1 tech artist, and 2 QA to develop some multiplayer games.
+- Architectured the flagship game, [Solitaire Candyworld](https://www.youtube.com/watch?v=0ej0CxHePlY), a casualised version of Solitaire Tri-Peaks, which supports 700+ levels. We've designed the architecture to support multiple types of game-play. Also, ensuring that additional meta features are plug-and-play.
+- Developed [Chess Blitz](https://www.youtube.com/shorts/tBYHGnw63vo), a multiplayer PvP Game using Nakama with our own account and economy management.
+- Significantly reduced the development time by writing common codebase to enable A/B testing, download files, analytics, and config driven gameplay.
+- Enhanced post-development activities by implementing automation for the generation of chess puzzles, validation processes, and unit tests, thereby facilitating seamless offline gameplay.
 
-### June 2020 - June 2022
+### June 2020 - June 2022 (2 Yrs)
 **[GetMega](https://www.getmega.com/)**, Bengaluru :: **Game Engineer**
 
 - Game Development
@@ -63,7 +69,7 @@
 
 > Within first 2 months, numbers of players having issues dropped by 35%
 
-### June 2018 - June 2020
+### June 2018 - June 2020 (2 Yrs)
 **[Ingenuity Gaming](https://www.ingenuitygaming.com/)**, Noida :: **Game Developer / SDE**
 
 - Game Development
@@ -92,6 +98,15 @@
 
 
 ## Additional Resources:
+
+- [Solitaire CandyWorld](https://www.youtube.com/watch?v=0ej0CxHePlY)
+
+{% include youtube.html id="DKd2MVj9w3I" %}
+
+- [Chess Blitz](https://www.youtube.com/shorts/tBYHGnw63vo)
+
+{% include youtube.html id="tBYHGnw63vo" %}
+
 - [DotDash Gameplay](https://user-images.githubusercontent.com/13629939/174492087-ab444bd1-80da-4038-ae93-b73a07c14ad5.mp4
 )
 
