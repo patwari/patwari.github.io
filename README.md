@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/13629939/174499471-be11d934-8569-4c64-88ab-85a3f85ff1a7.jpg" alt="drawing" width="200"/>
 
 # Rahul Patwari
-### Senior Game Developer at [Superhuge](https://superhugestudios.com/), Bengaluru
+### Technical Lead at [Superhuge](https://superhugestudios.com/), Bengaluru
 
 > Experienced and results-driven game developer with a proven track record of designing and developing engaging multi-player casual, hypercasual, and slot games over the past 6.5 years. Dedicated to consistently enhancing game design while prioritizing post-release health and performance optimization.
 
@@ -42,7 +42,7 @@
 ## Experience
 
 ### Aug 2022 - current (2+ yrs)
-**[Superhuge](https://superhugestudios.com/)**, Bengaluru :: **Senior Game Developer**
+**[Superhuge](https://superhugestudios.com/)**, Bengaluru :: **Technical Lead**
 - Leading an engineering team of 5 engineers, 1 tech artist, and 2 QA to develop some multiplayer games.
 - Architectured the flagship game, [Solitaire Candyworld](https://www.youtube.com/watch?v=0ej0CxHePlY), a casualised version of Solitaire Tri-Peaks, which supports 700+ levels. We've designed the architecture to support multiple types of game-play. Also, ensuring that additional meta features are plug-and-play.
 - Developed [Chess Blitz](https://www.youtube.com/shorts/tBYHGnw63vo), a multiplayer PvP Game using Nakama with our own account and economy management.
