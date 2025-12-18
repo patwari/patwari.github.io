@@ -1,7 +1,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/13629939/174485364-4922f3a3-1f6d-43c8-a2c9-df814eb99ddd.JPG" alt="drawing" width="200"/> -->
 <img src="https://user-images.githubusercontent.com/13629939/174499471-be11d934-8569-4c64-88ab-85a3f85ff1a7.jpg" alt="drawing" width="200"/>
 
-# Rahul Patwari
+# Rahul Kumar Patwari
 ### Technical Lead at [SuperHuge Studios](https://superhugestudios.com/), Bengaluru
 
 > Experienced and results-driven Game Developer and Technical Lead with a proven track record of designing and developing engaging multi-player casual, hypercasual, and slot games over the past 7 years. Dedicated to consistently enhancing player's experience while playing games and prioritizing post-release health and performance optimization.
@@ -31,10 +31,9 @@
 
 
 ## Education
-**B-Tech, Maths & Computing**  :: (2013 - 2017)
+**B-Tech, Maths & Computing** :: (2013 - 2017)
 
 - **[Indian Institute of Technology (IIT), Guwahati](https://www.iitg.ac.in/)**
-- **CPI = 5.56**
 
 **Senior Secondary**  :: (2006 - 2013)
 
@@ -105,11 +104,13 @@
 > 
 > Check it out at: [https://premium-deer-chief.ngrok-free.app](https://premium-deer-chief.ngrok-free.app)
 
+1. Game Playform to host multiple unity games in web version. Link: [https://platform.superhuge-ld.com/](https://platform.superhuge-ld.com/)
 
-3. [Dots and Boxes Game on Libgdx](https://github.com/patwari/DotAndBoxes) - Mar 2020
+
+1. [Dots and Boxes Game on Libgdx](https://github.com/patwari/DotAndBoxes) - Mar 2020
 > A simple game built on LibGdx. It was a personal project while learning the framework. [APK link](https://github.com/patwari/DotAndBoxes/raw/master/app/release/monoloco.apk)
 
-4. [3D Support for Pixijs library](https://patwari.github.io/threejs-within-pixijs/) - Oct 2019
+1. [3D Support for Pixijs library](https://patwari.github.io/threejs-within-pixijs/) - Oct 2019
 > Emulate a 3D environment on PIXI-js which primarily is a (2D) webGL-renderer.
 
 - Text Search Engine - Aug 2015
