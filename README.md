@@ -1,10 +1,9 @@
-<!-- <img src="https://user-images.githubusercontent.com/13629939/174485364-4922f3a3-1f6d-43c8-a2c9-df814eb99ddd.JPG" alt="drawing" width="200"/> -->
 <img src="https://user-images.githubusercontent.com/13629939/174499471-be11d934-8569-4c64-88ab-85a3f85ff1a7.jpg" alt="drawing" width="200"/>
 
 # Rahul Kumar Patwari
 ### Technical Lead at [SuperHuge Studios](https://superhugestudios.com/), Bengaluru
 
-> Experienced and results-driven Game Developer and Technical Lead with a proven track record of designing and developing engaging multi-player casual, hypercasual, and slot games over the past 7 years. Dedicated to consistently enhancing player's experience while playing games and prioritizing post-release health and performance optimization.
+> Technical Lead with 7+ years in Unity, multiplayer systems, backend integrations and performance optimisation. Led engineering teams, architected casual titles at scale, and built pipelines improving development speed and game stability.
 
 > Love to read books, and watch movies.
 
@@ -19,15 +18,12 @@
 
 ## Technical Skills
 
-- Programming Languages: **C#, Unity, Python, Javascript, Typescript**
-- Programming Languages: (minor expertise): **Java, Golang, C++**
-- Database Management: **MySQL, BigQuery**
-- Miscellaneous: 
-  - **Unity, Nakama, MySQL, Docker, AWS, Git, LibGdx, PIXI-js**
-  - CI/CD pipeline with Remote Builds with auto notification.
-  - Multi test environment setup for quick tesing and deployment. 
-  - Assets bundling and dynamic assets downloads to keep the download size minimal.
-  - In-game chatting system with push notifications to improve player's engagement.
+- Programming Languages: **C#, Java, Javascript, Typescript**
+- Game Engines: **Unity, LibGDX, PIXI.js, Phaser**
+- Backend: **Nakama, MySQL, REST APIs, Protobuf, Realtime Multiplayer**
+- Unity Expertise: **Addressables, ScriptableObjects, Profiling (CPU/GPU/Memory), Async & multi-threading**
+- Tools: **Git, Docker, AWS, CI/CD**
+- Types Of Games: **Casual, Hypercasual, Slot, Keno Games**
 
 
 ## Education
@@ -46,15 +42,17 @@
 
 ### Aug 2022 - current (3+ yrs)
 **[SuperHuge Studios](https://superhugestudios.com/)**, Bengaluru :: **Technical Lead**
-- Guiding an engineering team of 5 engineers, 1 Tech-Artist and 2 QA to develop titles.
-- Improved the D1 retention to 42%, while having more than 99.2% crash free players and sessions, to ensure a smooth and memorable int player's experience.
-- Architected the flagship game, [Solitaire Candyworld](https://www.youtube.com/watch?v=0ej0CxHePlY), a casualised version of Solitaire Tri-Peaks, which supports 700+ levels. We've designed the architecture to support multiple types of game-play. Also, ensuring that additional meta features are plug-and-play.
-- Improved game performance by offloading downloads and file I/O to background threads, and identifying memory leaks using Unity Profiler
-- Explored Unity DOTS and ECS to optimize asset-heavy lobby areas for smoother performance and lower memory footprint.
-- Architected an in-house CI/CD environment for automated builds and multi-environment testing, cutting testing time and infrastructure costs.
-- Built **WallZone**, an experimental FPS project projecting gameplay onto physical walls, integrating custom weapon input and shooter mechanics beyond traditional monitor-based play.
-- Developed [Chess Blitz](https://www.youtube.com/shorts/tBYHGnw63vo), a multiplayer PvP Game using Nakama with our own account and economy management.
-- Significantly reduced the development time by writing common codebase to enable A/B testing, download files, analytics, and config driven gameplay.
+- Led 12 engineers and 3 tech artists to develop 10+ titles.
+- Architected the flagship game, [Solitaire Candyworld](https://www.youtube.com/watch?v=0ej0CxHePlY) which has 1000+ levels, 20+ features.
+- It has 4.9 rating in play store, at 70k+ downloads.
+- Raised D1 retention to 42% with 99.2% crash-free gameplay. 
+- The game achieved 17% D7 retention and 45 min of average daily playtime.
+- Improved performance via background threading and Unity Profiler.
+- Developed [Chess Blitz (PvP)](https://www.youtube.com/shorts/tBYHGnw63vo) supporting multiplayer using Nakama and in-house player management.
+- Built [Catwool](https://play.google.com/store/apps/details?id=com.superhuge.catwool), a hypercasual game with playful visuals.
+- Built [Shootopia](Extra/Wallzone-first-demo.mp4), an experimental FPS with physical-wall projection.
+- Built shared frameworks for A/B tests, analytics, remote config-driven systems.
+- Automated puzzle generation, validation, and the build pipelines.
 - Enhanced post-development activities by implementing automation for the generation of chess puzzles, validation processes, and unit tests, thereby facilitating seamless offline gameplay.
 
 ### June 2020 - June 2022 (2 Yrs)
@@ -65,7 +63,7 @@
 > 
 > Created various features in pre-existing games, like Poker, Carrom, Pool and Rummy.
 > 
-> PFA gameplays of all games in [Additional Resources](#additional-resources) section. 
+> PFA gameplay videos of all games in [Additional Resources](#additional-resources) section. 
 
 - Common Engine Development
 > Co-created a common layer, on which all games run, to enable adding common elements like HUD, game hints, score management, performance monitoring, debugging and more.
@@ -91,7 +89,7 @@
 
 ## Projects
 
-1. **WallZone** - Jan 2025
+1. **Shootopia** - Jan 2025
 > Why be restricted to playing in a monitor, and shooting with your mouse?
 > 
 > Break the boundaries, and use a physical gun like machine and have fun where your wall is the monitor, and you get a more immersive experience. 
@@ -104,7 +102,7 @@
 > 
 > Check it out at: [https://premium-deer-chief.ngrok-free.app](https://premium-deer-chief.ngrok-free.app)
 
-1. Game Playform to host multiple unity games in web version. Link: [https://platform.superhuge-ld.com/](https://platform.superhuge-ld.com/)
+1. Game Platform to host multiple unity games in web version. Link: [https://platform.superhuge-ld.com/](https://platform.superhuge-ld.com/)
 
 
 1. [Dots and Boxes Game on Libgdx](https://github.com/patwari/DotAndBoxes) - Mar 2020
