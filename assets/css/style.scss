@@ -1,0 +1,27 @@
+---
+---
+
+@import 'jekyll-theme-merlot';
+div.shell {
+  width: 80%;
+}
+
+body {
+  font: normal normal 20px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+}
+
+.banner-fix {
+  display: none !important;
+}
+
+header{
+  display: none !important;
+}
+
+#downloads, #no-downloads {
+  display: none !important;
+}
+
+#forkme_banner {
+  display: none !important;
+}
