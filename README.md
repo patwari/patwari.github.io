@@ -9,11 +9,12 @@
 
 > Love to read books, and watch movies.
 
-## Contacts Information
+## Contact Information
 
 - Email - rahulpatwari233@gmail.com
 - Phone - (+91) 9085-294-720
 - Address - [Bengaluru, Karnataka](https://maps.app.goo.gl/XF6nFxtmXz8E49Zh9)
+- Github - [https://github.com/patwari](https://github.com/patwari)
 - Leetcode - [https://leetcode.com/r_patwari](https://leetcode.com/r_patwari)
 - InterviewBit - [https://www.interviewbit.com/profile/foxx](https://www.interviewbit.com/profile/foxx)
 
@@ -45,12 +46,12 @@
 ### Aug 2022 - current (3+ yrs)
 **[SuperHuge Studios](https://superhugestudios.com/)**, Bengaluru :: **Technical Lead**
 - Led 12 engineers and 3 tech artists to develop 10+ titles.
-- Architected the flagship game, [Solitaire Candyworld](https://www.youtube.com/watch?v=0ej0CxHePlY) which has 1000+ levels, 20+ features.
+- Architected the flagship game, [Solitaire Candyworld](https://play.google.com/store/apps/details?id=com.superhugestudios.candyworld.free.harvest) which has 1000+ levels, 20+ features.
 - It has 4.9 rating in play store, at 70k+ downloads.
 - Raised D1 retention to 42% with 99.2% crash-free gameplay. 
 - The game achieved 17% D7 retention and 45 min of average daily playtime.
 - Improved performance via background threading and Unity Profiler.
-- Developed [Chess Blitz (PvP)](https://www.youtube.com/shorts/tBYHGnw63vo) supporting multiplayer using Nakama and in-house player management.
+- Developed [Chess Blitz (PvP)](https://play.google.com/store/apps/details?id=com.superhugestudios.chessblitz.chessgame.friends.chess) supporting multiplayer using Nakama and in-house player management.
 - Built [Catwool](https://play.google.com/store/apps/details?id=com.superhuge.catwool), a hypercasual game with playful visuals.
 - Built [Shootopia](Extra/Wallzone-first-demo.mp4), an experimental FPS with physical-wall projection.
 - Built shared frameworks for A/B tests, analytics, remote config-driven systems.
@@ -63,7 +64,7 @@
 #### Game Development
 - Developed both *FE & BE* of 3 casual multiplayer real-money games (**DotDash, Fruitkaat, ABC-Rummy**) on *LibGdx framework*, which requires constant sync with BE, while maintaining 60 fps using optimal codes. 
 - Created various features in pre-existing games, like Poker, Carrom, Pool and Rummy.
-- PFA gameplay videos of all games in [Additional Resources](#additional-resources) section. 
+- PFA gameplay videos of all games in [Games Portfolio](#games-portfolio) section. 
 
 #### Common Engine Development
 - Co-created a common layer, on which all games run, to enable adding common elements like HUD, game hints, score management, performance monitoring, debugging and more.
@@ -113,7 +114,7 @@
 - Running time ~0.15s for 400-600 text files (~5 KB each).
 
 
-## Additional Resources:
+## Games Portfolio:
 
 - [Solitaire CandyWorld](https://www.youtube.com/watch?v=0ej0CxHePlY)
 
@@ -125,11 +126,10 @@
 
 - [Chess Blitz](https://www.youtube.com/shorts/tBYHGnw63vo)
 
-<center>
-<div class="videoWrapper" style="max-width: 720px; padding:0px 0px 0px 30px">
-{% include youtube.html id="tBYHGnw63vo" %}
-</div>
-</center>
+    <center>
+    <video src="Extra/Chess Blitz Ad - Multiplayer - Win.mp4" title="Chess Blitz Ad" controls="controls" style="max-width: 720px; max-height: 580px;">
+    </video>
+    </center>
 
 - [Catwool Gameplay](Extra/Catwool_Ad_Video_01.mp4)
 
