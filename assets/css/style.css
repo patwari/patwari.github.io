@@ -71,10 +71,24 @@ ul {
 .bg-shape {
   position: fixed;
   z-index: 0;
-  width: 480px;
-  height: 480px;
-  filter: blur(180px);
+  width: clamp(220px, 45vw, 420px);
+  height: clamp(220px, 45vw, 420px);
+  filter: blur(clamp(140px, 25vw, 200px));
+  opacity: 0.35;
+}
+
+.particle-canvas {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.45;
+  mix-blend-mode: screen;
+}
+
+.theme-light .particle-canvas {
   opacity: 0.6;
+  mix-blend-mode: normal;
 }
 
 .bg-shape--a {
@@ -90,11 +104,15 @@ ul {
 }
 
 .theme-light .bg-shape--a {
-  background: #b7d8ff;
+  background: rgba(43, 198, 67, 0.43);
 }
 
 .theme-light .bg-shape--b {
-  background: #ffe3a3;
+  background: rgba(46, 97, 219, 0.48);
+}
+
+.theme-light .bg-shape {
+  opacity: 0.7;
 }
 
 .header {
@@ -655,7 +673,7 @@ ul {
 
 .timeline__company {
   font-weight: 800;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
 }
 
 .timeline__period {
@@ -667,7 +685,7 @@ ul {
   font-weight: 700;
   color: var(--accent);
   margin-top: 4px;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 .theme-light .pill {
