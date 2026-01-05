@@ -36,7 +36,7 @@
 
 **Senior Secondary**  :: (2006 - 2013)
 
-- Sainik School Gopalganj, Bihar
+- [Sainik School Gopalganj, Bihar](https://www.ssgopalganj.in/)
 - 10th Marks = 10 CGPA
 - 12th marks = 88.80%
 
@@ -62,7 +62,7 @@
 **[GetMega](https://www.getmega.com/)**, Bengaluru :: **Game Engineer**
 
 #### Game Development
-- Developed both *FE & BE* of 3 casual multiplayer real-money games (**DotDash, Fruitkaat, ABC-Rummy**) on *LibGdx framework*, which requires constant sync with BE, while maintaining 60 fps using optimal codes. 
+- Developed both *FE & BE* of 3 casual multiplayer real-money games (**DotDash, Fruitkaat, ABC-Rummy**) on [*LibGdx framework*](https://libgdx.com/), which requires constant sync with BE, while maintaining 60 fps using optimal codes. 
 - Created various features in pre-existing games, like Poker, Carrom, Pool and Rummy.
 - PFA gameplay videos of all games in [Games Portfolio](#games-portfolio) section. 
 

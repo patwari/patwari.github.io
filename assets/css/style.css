@@ -165,7 +165,8 @@ ul {
 
 .nav__link {
   color: var(--muted);
-  font-weight: 600;
+  font-weight: 400;
+  font-size: 0.9em;
   padding: 8px 10px;
   border-radius: 8px;
   transition: color 0.2s ease, background 0.2s ease;
