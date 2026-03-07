@@ -3,9 +3,9 @@
 </center>
 
 # Rahul Kumar Patwari
-### Technical Lead at [SuperHuge Studios](https://superhugestudios.com/), Bengaluru
+### Senior Game Developer at [Gameberry Labs](https://gameberrylabs.com/)
 
-> Technical Lead with 7+ years in Unity, multiplayer systems, backend integrations and performance optimisation. Led engineering teams, architected casual titles at scale, and built pipelines improving development speed and game stability.
+> Senior Game Developer with 8+ years in Unity, multiplayer systems, backend integrations and performance optimisation. Led engineering teams, architected casual titles at scale, and built pipelines improving development speed and game stability.
 
 > Love to read books, and watch movies.
 
@@ -43,7 +43,10 @@
 
 ## Experience
 
-### Aug 2022 - current (3+ yrs)
+### Feb 2026 - current
+**[Gameberry Labs](https://gameberrylabs.com/)** :: **Senior Game Developer**
+
+### Aug 2022 - Jan 2026
 **[SuperHuge Studios](https://superhugestudios.com/)**, Bengaluru :: **Technical Lead**
 - Led 12 engineers and 3 tech artists to develop 10+ titles.
 - Architected the flagship game, [Solitaire Candyworld](https://play.google.com/store/apps/details?id=com.superhugestudios.candyworld.free.harvest) which has 1000+ levels, 20+ features.
